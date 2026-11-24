@@ -38,11 +38,11 @@ dependencies {
     //implementation 'org.glassfish.jersey.core:jersey-client:2.28'
     implementation 'com.google.guava:guava:28.2-jre'
 
-    implementation 'no.fint:fint-sse:1.4.1'
-    implementation 'no.fint:fint-event-model:3.0.2'
-    implementation 'no.fint:fint-relation-model:1.1.6'
-    implementation 'no.fint:fint-okonomi-model-java:3.16.0'
-    implementation 'no.fint:fint-okonomi-resource-model-java:3.16.0'
+    implementation 'no.fint:fint-sse:2.0.1'
+    implementation 'no.fint:fint-event-model:4.0.0'
+    implementation 'no.fint:fint-relation-model:3.0.0'
+    implementation 'no.fint:fint-okonomi-model-java:3.19.0'
+    implementation 'no.fint:fint-okonomi-resource-model-java:3.19.0'
 
     implementation 'org.springframework.boot:spring-boot-starter-oauth2-resource-server'
     implementation 'io.netty:netty-resolver-dns-native-macos:4.1.101.Final:osx-aarch_64'
